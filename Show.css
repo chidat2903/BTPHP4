@@ -1,0 +1,67 @@
+button{
+    margin-right: 20px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid #fff;
+    background: #6699cc;
+    float: right;
+}
+form{
+    display: block;
+    padding: 10px;
+    border: 1px solid #000000;
+    margin: 2px;
+    color: #000000;
+    width: 500px;
+    background-image: url(https://haycafe.vn/wp-content/uploads/2022/03/Anh-bia-zalo-tranh-ve-phong-canh.jpg);
+    background-size: cover;
+}
+.show{
+    display: flex;
+    padding: 0px;
+    position: relative;
+    margin: 0px;
+    width: 100%;
+}
+.card-title{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+    padding: 10px 0;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.fa-star{
+    color: var(--bs-yellow);
+}
+.fa-plus{
+    font-size: 24px;
+}
+.evaluation{
+    font-size: 15px;
+    margin-left: 15px;
+    justify-content: space-between;
+}
+.price{
+    color: red;
+    font-size: 20px;
+    margin-left: 15px;;
+}
+.title{
+    background: #0099cc;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+.card-img-top{
+    width: 300px;
+    height: 200px;
+    margin-top: 15px;
+    background-size: cover;
+}
